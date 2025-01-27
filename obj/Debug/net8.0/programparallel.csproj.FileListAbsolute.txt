@@ -1,0 +1,14 @@
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\bin\Debug\net8.0\programparallel.exe
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\bin\Debug\net8.0\programparallel.deps.json
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\bin\Debug\net8.0\programparallel.runtimeconfig.json
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\bin\Debug\net8.0\programparallel.dll
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\bin\Debug\net8.0\programparallel.pdb
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.AssemblyInfoInputs.cache
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.AssemblyInfo.cs
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.csproj.CoreCompileInputs.cache
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.dll
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\refint\programparallel.dll
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.pdb
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\programparallel.genruntimeconfig.cache
+C:\Users\daco0\source\CursoC#TB\programparallel\programparallel\obj\Debug\net8.0\ref\programparallel.dll
